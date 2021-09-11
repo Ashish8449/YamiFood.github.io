@@ -7,8 +7,7 @@
 a {
   text-decoration: none;
 }
-div {
-}
+
 li {
   list-style: none;
 }
@@ -148,7 +147,8 @@ button a {
   object-fit: cover;
   height: inherit;
   filter: drop-shadow(0px 5px 3px black);
-  box-shadow: -3px -6px 20px rgb(208 167 114);
+  /* box-shadow: -3px -6px 20px rgb(208 167 114); */
+  border-radius: 10px;
 }
 .text_center {
   text-align: center;
@@ -283,7 +283,7 @@ footer br {
   border: 2px solid rgb(208, 167, 114);
   border-radius: 15px;
   margin: 10px 10px;
-  box-shadow: 2px 3px 20px rgb(208, 167, 114) ;
+  box-shadow: 0px 1px 5px rgb(208, 167, 114) ;
 }
 .hamburger {
   width: 50px;
