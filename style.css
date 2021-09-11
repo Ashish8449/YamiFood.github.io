@@ -359,6 +359,11 @@ input::placeholder {
   margin: 10px 20px;
 
 }
+.fa-envelope {
+  position: relative;
+  top:-2px
+  
+}
 /* media */
 @media screen and (max-width: 1000px) {
   .row {
